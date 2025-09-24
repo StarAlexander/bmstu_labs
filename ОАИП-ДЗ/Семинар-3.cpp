@@ -1,5 +1,6 @@
 #include <iostream>
 #include <climits>
+#include <cmath>
 using namespace std;
 
 // Task 1
@@ -21,12 +22,12 @@ void task1() {
 
     int count = 0;
     for (int k = 0; k < n; ++k) {
-        if (A[k] > 2 * (k + 1)) {
+        if (A[k] > pow(2,k+1)) {
             count++;
         }
     }
 
-    cout << "Number of elements satisfying A[k] > 2*k: " << count << endl;
+    cout << "Number of elements satisfying A[k] > 2**k: " << count << endl;
 }
 
 // Task 2
