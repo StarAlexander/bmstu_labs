@@ -13,8 +13,6 @@ MESSAGE="$*"
 nc -l -p 12346 &
 LISTENER_PID=$!
 
-sleep 0.5
-
 echo "Отправка: $MESSAGE"
 echo "$MESSAGE" | nc "$HOST" "$PORT"
 
