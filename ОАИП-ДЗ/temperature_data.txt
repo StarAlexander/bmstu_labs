@@ -1,0 +1,5 @@
+SensorA 23.5
+SensorA 24.1
+SensorB 22.8
+SensorB 23.0
+SensorA 24.0
