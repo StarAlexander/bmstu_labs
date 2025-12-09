@@ -1,0 +1,10 @@
+Car;Toyota;Corolla;2020;Automatic-4;oil change\|engine check\|tire rotation
+Car;BMW;X5;2019;Manual-5;tire rotation\|brake check
+Motorcycle;Yamaha;R1;2021;Sport-200;engine tuning\|chain adjustment
+Motorcycle;Honda;Shadow;2018;Cruiser-150;oil change\|battery check
+Car;Mercedes;C-Class;2022;Automatic-4;engine repair\|tire rotation
+Motorcycle;Kawasaki;Ninja;2022;Sport-250;engine overhaul\|oil change
+Motorcycle;Suzuki;GSX-R;2020;Sport-220;brake adjustment\|chain adjustment
+Car;Ford;Focus;2017;Manual-5;clutch replacement\|oil change
+Car;Audi;A4;2021;Automatic-4;AC service\|engine check
+Motorcycle;Ducati;Panigale;2023;Superbike-210;track day prep\|engine tuning
